@@ -19,11 +19,11 @@ We always prefer Slack, yet we decided to try WhatsApp for communication to redu
 
 ## 📌 Introduction
 
-Question paper Generator, a web app which helps everyone to generate question papers with ease.
+Question paper Generator, a web application which helps everyone to generate question papers with ease.
 
 ## ⭐ How to get started?
 
-You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are stuck:
+You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are  being stucked:
 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
